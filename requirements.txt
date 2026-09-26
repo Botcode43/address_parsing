@@ -1,0 +1,10 @@
+# Python >= 3.8
+# No third-party packages required (Standard Library only)
+# Used built-in modules:
+# - re
+# - difflib
+# - csv
+# - dataclasses
+# - argparse
+# - os
+# - sys
